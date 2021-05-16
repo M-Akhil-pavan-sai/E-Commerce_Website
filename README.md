@@ -2,4 +2,4 @@
 
 
 preview:
-![website_img](https://github.com/M-Akhil-pavan-sai/E-Commerce_Website/tree/main/websiteimg.png?raw=true)
+![alt_txt](https://github.com/M-Akhil-pavan-sai/E-Commerce_Website/blob/main/websiteimg.png)
